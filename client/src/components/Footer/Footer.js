@@ -40,6 +40,9 @@ const Footer = () => {
             <p>Get exiting news, rules, update on email</p>
           </div>
         </div>
+        <div className="row  text-white mt-4">
+          <p className="text-center">@2025 Power gym, All rights reserved</p>
+        </div>
       </div>
     </div>
   );
