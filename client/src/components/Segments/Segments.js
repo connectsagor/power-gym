@@ -21,7 +21,7 @@ const segmentsData = [
 ];
 const Segments = () => {
   return (
-    <div className="container my-5">
+    <div className="container my-5 py-5">
       <div className="row">
         {segmentsData.map((segment, ind) => {
           return (
